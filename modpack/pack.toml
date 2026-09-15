@@ -1,0 +1,17 @@
+name = "Monkey Modpack"
+author = "Just Mango"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+<<<<<<< HEAD:pack.toml
+hash = "072637062d153f4be5ece88dbdf698a864e850a0557713a1295ace7beb4b0535"
+=======
+hash = "1cb7b8ea5ec6c742c30d4207780e0df175897a39ed47ff6b57caa6c650d234b2"
+>>>>>>> 80fd767 (setup):modpack/pack.toml
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.2"
